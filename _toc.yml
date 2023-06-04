@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: BAI
+    chapters:
+    - file: Info/Definition
+    - file: Membres/Membres
+    - file: Histoire/Histoire
+  - caption: Projets
+    chapters:
+    - file: Projets/Projets
+  - caption: Contribuer
+    chapters:    
+    - file: Contribuer
